@@ -1,0 +1,3109 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\css\\Home Page - Dropdown Menu for Saved Mangas.aco",
+      "PackagePath": "staticwebassets\\Customer\\css\\Home Page - Dropdown Menu for Saved Mangas.aco"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\css\\app-creative-dark.min.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\app-creative-dark.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\css\\app-creative.min.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\app-creative.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\css\\app-modern-dark.min.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\app-modern-dark.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\css\\app-modern.min.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\app-modern.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\css\\carousel.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\carousel.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\icons.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\css\\main.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\css\\style.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\css\\vendor\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\vendor\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\css\\vendor\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\vendor\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\css\\vendor\\responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\vendor\\responsive.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-Bold.eot",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-Bold.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-Bold.svg",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-Bold.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-Bold.woff",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-Bold.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-Light.svg",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-Light.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-Light.woff",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-Light.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-Light.woff2",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-Light.woff2"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-Regular.eot",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-Regular.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-Regular.svg",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-Regular.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-Regular.woff",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-Regular.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-SemiBold.eot",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-SemiBold.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-SemiBold.svg",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-SemiBold.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\Nunito-SemiBold.woff",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\Nunito-SemiBold.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\summernote.woff2",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\summernote.woff2"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\unicons.eot",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\unicons.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\unicons.svg",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\unicons.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\unicons.ttf",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\unicons.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\unicons.woff",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\unicons.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\fonts\\unicons.woff2",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\unicons.woff2"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\img\\47126346_671615859906817_766212574944428032_n.jpg",
+      "PackagePath": "staticwebassets\\Customer\\img\\47126346_671615859906817_766212574944428032_n.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\img\\72561095_1152623741615641_762555470421426176.jpg",
+      "PackagePath": "staticwebassets\\Customer\\img\\72561095_1152623741615641_762555470421426176.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\img\\76693209_2445782385645459_1824072803884728320_n.jpg",
+      "PackagePath": "staticwebassets\\Customer\\img\\76693209_2445782385645459_1824072803884728320_n.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\img\\86603-150375137765.jpg",
+      "PackagePath": "staticwebassets\\Customer\\img\\86603-150375137765.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\img\\apex-section-bg-legends-caustic-xl.jpg.adapt.320w.jpg",
+      "PackagePath": "staticwebassets\\Customer\\img\\apex-section-bg-legends-caustic-xl.jpg.adapt.320w.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\img\\cover1.jpg",
+      "PackagePath": "staticwebassets\\Customer\\img\\cover1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\img\\cover2.jpg",
+      "PackagePath": "staticwebassets\\Customer\\img\\cover2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\img\\cover3.jpg",
+      "PackagePath": "staticwebassets\\Customer\\img\\cover3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\img\\cover4.jpg",
+      "PackagePath": "staticwebassets\\Customer\\img\\cover4.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\img\\slider1.jpg",
+      "PackagePath": "staticwebassets\\Customer\\img\\slider1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\img\\slider2.jpg",
+      "PackagePath": "staticwebassets\\Customer\\img\\slider2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\img\\slider3.jpg",
+      "PackagePath": "staticwebassets\\Customer\\img\\slider3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\javascript\\app.min.js",
+      "PackagePath": "staticwebassets\\Customer\\javascript\\app.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\javascript\\vendor.min.js",
+      "PackagePath": "staticwebassets\\Customer\\javascript\\vendor.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\app.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\app.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\app.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\app.min.js.map",
+      "PackagePath": "staticwebassets\\Customer\\js\\app.min.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\main.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.apex-area.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.apex-area.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.apex-bar.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.apex-bar.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.apex-bubble.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.apex-bubble.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.apex-candlestick.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.apex-candlestick.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.apex-column.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.apex-column.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.apex-heatmap.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.apex-heatmap.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.apex-line.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.apex-line.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.apex-mixed.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.apex-mixed.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.apex-pie.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.apex-pie.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.apex-radar.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.apex-radar.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.apex-radialbar.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.apex-radialbar.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.apex-scatter.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.apex-scatter.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.apex-sparklines.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.apex-sparklines.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.britechart.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.britechart.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.calendar.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.calendar.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.chartjs.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.chartjs.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.customers.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.customers.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.dashboard-analytics.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.dashboard-analytics.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.dashboard-crm.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.dashboard-crm.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.dashboard-projects.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.dashboard-projects.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.dashboard.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.dashboard.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.datatable-init.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.datatable-init.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.form-wizard.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.form-wizard.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.google-maps.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.google-maps.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.inbox.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.inbox.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.products.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.products.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.profile.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.profile.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.project-detail.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.project-detail.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.project-gantt.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.project-gantt.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.sellers.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.sellers.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.simplemde.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.simplemde.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.sparkline.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.sparkline.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.summernote.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.summernote.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.toastr.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.toastr.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.typehead.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.typehead.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.vector-maps.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.vector-maps.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\pages\\demo.widgets.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\pages\\demo.widgets.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\ui\\component.chat.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\ui\\component.chat.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\ui\\component.dragula.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\ui\\component.dragula.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\ui\\component.fileupload.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\ui\\component.fileupload.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\ui\\component.range-slider.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\ui\\component.range-slider.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\ui\\component.rating.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\ui\\component.rating.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\ui\\component.scrollbar.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\ui\\component.scrollbar.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\ui\\component.todo.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\ui\\component.todo.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor.min.js.map",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor.min.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\britecharts.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\britecharts.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\buttons.flash.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\d3.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\d3.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\dataTables.checkboxes.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\dataTables.checkboxes.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\dataTables.select.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\dragula.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\dragula.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\dropzone.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\frappe-gantt.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\frappe-gantt.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\handlebars.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\handlebars.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery-jvectormap-au-mill-en.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery-jvectormap-au-mill-en.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery-jvectormap-ca-lcc-en.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery-jvectormap-ca-lcc-en.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery-jvectormap-es-merc.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery-jvectormap-es-merc.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery-jvectormap-es-mill.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery-jvectormap-es-mill.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery-jvectormap-europe-mill-en.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery-jvectormap-europe-mill-en.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery-jvectormap-fr-merc-en.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery-jvectormap-fr-merc-en.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery-jvectormap-in-mill-en.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery-jvectormap-in-mill-en.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery-jvectormap-us-il-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery-jvectormap-us-il-chicago-mill-en.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery-jvectormap-us-merc-en.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery-jvectormap-us-merc-en.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery.rateit.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery.rateit.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\simplemde.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\simplemde.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Customer\\js\\vendor\\typeahead.bundle.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\vendor\\typeahead.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\Template\\css\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\Template\\css\\default-skin.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\Template\\css\\icomoon.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Template\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\Template\\css\\meanmenu.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Template\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\Template\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Template\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\slick.css",
+      "PackagePath": "staticwebassets\\Template\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\css\\style.css",
+      "PackagePath": "staticwebassets\\Template\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\fonts\\Berlin Sans FB Bold.ttf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\Berlin Sans FB Bold.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\banner-bg.png",
+      "PackagePath": "staticwebassets\\Template\\images\\banner-bg.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\call-icon.png",
+      "PackagePath": "staticwebassets\\Template\\images\\call-icon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\computer-img.png",
+      "PackagePath": "staticwebassets\\Template\\images\\computer-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\dress-shirt-img.png",
+      "PackagePath": "staticwebassets\\Template\\images\\dress-shirt-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\flag-france.png",
+      "PackagePath": "staticwebassets\\Template\\images\\flag-france.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\flag-uk.png",
+      "PackagePath": "staticwebassets\\Template\\images\\flag-uk.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\Template\\images\\footer-logo.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\jhumka-img.png",
+      "PackagePath": "staticwebassets\\Template\\images\\jhumka-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\kangan-img.png",
+      "PackagePath": "staticwebassets\\Template\\images\\kangan-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\laptop-img.png",
+      "PackagePath": "staticwebassets\\Template\\images\\laptop-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Template\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\mail-icon.png",
+      "PackagePath": "staticwebassets\\Template\\images\\mail-icon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\map-icon.png",
+      "PackagePath": "staticwebassets\\Template\\images\\map-icon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\mobile-img.png",
+      "PackagePath": "staticwebassets\\Template\\images\\mobile-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\neklesh-img.png",
+      "PackagePath": "staticwebassets\\Template\\images\\neklesh-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\Template\\images\\search-icon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\toggle-icon.png",
+      "PackagePath": "staticwebassets\\Template\\images\\toggle-icon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\tshirt-img.png",
+      "PackagePath": "staticwebassets\\Template\\images\\tshirt-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\user-icon.png",
+      "PackagePath": "staticwebassets\\Template\\images\\user-icon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\images\\women-clothes-img.png",
+      "PackagePath": "staticwebassets\\Template\\images\\women-clothes-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\Template\\js\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Template\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Template\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Template\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Template\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Template\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Template\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Template\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\Template\\js\\modernizer.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\Template\\js\\plugin.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\Template\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\Template\\js\\slider-setting.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\about-1-570x350.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-1-570x350.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\blog-1-370x270.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1-370x270.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\blog-2-370x270.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-2-370x270.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\blog-3-370x270.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-3-370x270.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\blog-4-370x270.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-4-370x270.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\blog-5-370x270.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-5-370x270.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\blog-6-370x270.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-6-370x270.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\blog-image-fullscren-1-1920x700.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image-fullscren-1-1920x700.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\heading-1-1920x500.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\heading-1-1920x500.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\heading-2-1920x500.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\heading-2-1920x500.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\heading-3-1920x500.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\heading-3-1920x500.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\heading-4-1920x500.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\heading-4-1920x500.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\heading-5-1920x500.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\heading-5-1920x500.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\heading-6-1920x500.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\heading-6-1920x500.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\other-image-fullscren-1-1920x900.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other-image-fullscren-1-1920x900.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\product-1-370x270.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-1-370x270.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\product-2-370x270.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-2-370x270.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\product-3-370x270.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-3-370x270.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\product-4-370x270.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-4-370x270.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\product-5-370x270.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-5-370x270.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\product-6-370x270.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-6-370x270.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\slider-image-1-1920x600.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image-1-1920x600.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\slider-image-2-1920x600.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image-2-1920x600.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\slider-image-3-1920x600.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image-3-1920x600.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\images\\team_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team_01.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\assets\\js\\owl.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\BookOwner.css",
+      "PackagePath": "staticwebassets\\css\\BookOwner.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-creative-dark.css",
+      "PackagePath": "staticwebassets\\css\\app-creative-dark.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-creative-dark.min.css",
+      "PackagePath": "staticwebassets\\css\\app-creative-dark.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-creative-dark.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app-creative-dark.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-creative.css",
+      "PackagePath": "staticwebassets\\css\\app-creative.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-creative.min.css",
+      "PackagePath": "staticwebassets\\css\\app-creative.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-creative.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app-creative.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-dark.css",
+      "PackagePath": "staticwebassets\\css\\app-dark.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-dark.min.css",
+      "PackagePath": "staticwebassets\\css\\app-dark.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-dark.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app-dark.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-modern-dark.css",
+      "PackagePath": "staticwebassets\\css\\app-modern-dark.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-modern-dark.min.css",
+      "PackagePath": "staticwebassets\\css\\app-modern-dark.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-modern-dark.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app-modern-dark.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-modern.css",
+      "PackagePath": "staticwebassets\\css\\app-modern.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-modern.min.css",
+      "PackagePath": "staticwebassets\\css\\app-modern.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app-modern.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app-modern.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\css\\app.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\app.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\background.css",
+      "PackagePath": "staticwebassets\\css\\background.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\carousel.css",
+      "PackagePath": "staticwebassets\\css\\carousel.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\customerStyle.css",
+      "PackagePath": "staticwebassets\\css\\customerStyle.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\css\\default-skin.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\icons.css",
+      "PackagePath": "staticwebassets\\css\\icons.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\css\\icons.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\icons.min.css.map",
+      "PackagePath": "staticwebassets\\css\\icons.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\style2.css",
+      "PackagePath": "staticwebassets\\css\\style2.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\vendor\\britecharts.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\britecharts.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\vendor\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\vendor\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\vendor\\frappe-gantt.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\frappe-gantt.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\vendor\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\fullcalendar.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\vendor\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\vendor\\responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\responsive.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\vendor\\select.bootstrap4.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\select.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\vendor\\simplemde.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\simplemde.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\css\\vendor\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\summernote-bs4.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Berlin Sans FB Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Berlin Sans FB Bold.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Bold.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-Bold.svg",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Bold.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Bold.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-Light.svg",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Light.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Light.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Light.woff2"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-Regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Regular.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-Regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Regular.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-Regular.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-SemiBold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-SemiBold.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-SemiBold.svg",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-SemiBold.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\Nunito-SemiBold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito-SemiBold.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\summernote.woff2",
+      "PackagePath": "staticwebassets\\fonts\\summernote.woff2"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\unicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\unicons.eot"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\unicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\unicons.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\unicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\unicons.ttf"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\unicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\unicons.woff"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\fonts\\unicons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\unicons.woff2"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\CRS1.jpg",
+      "PackagePath": "staticwebassets\\images\\CRS1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\CRS2.jpg",
+      "PackagePath": "staticwebassets\\images\\CRS2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\CRS3.jpg",
+      "PackagePath": "staticwebassets\\images\\CRS3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\Omini.png",
+      "PackagePath": "staticwebassets\\images\\Omini.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\anime.png",
+      "PackagePath": "staticwebassets\\images\\anime.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\attached-files\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\attached-files\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\attached-files\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\attached-files\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\attached-files\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\attached-files\\img-3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\banner-bg.png",
+      "PackagePath": "staticwebassets\\images\\banner-bg.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\barcode.png",
+      "PackagePath": "staticwebassets\\images\\barcode.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\bg-pattern-dark.png",
+      "PackagePath": "staticwebassets\\images\\bg-pattern-dark.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\bg-pattern-light.svg",
+      "PackagePath": "staticwebassets\\images\\bg-pattern-light.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\bg-pattern.png",
+      "PackagePath": "staticwebassets\\images\\bg-pattern.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\brands\\bitbucket.png",
+      "PackagePath": "staticwebassets\\images\\brands\\bitbucket.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\images\\brands\\dribbble.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\brands\\dropbox.png",
+      "PackagePath": "staticwebassets\\images\\brands\\dropbox.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\brands\\g-suite.png",
+      "PackagePath": "staticwebassets\\images\\brands\\g-suite.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\brands\\github.png",
+      "PackagePath": "staticwebassets\\images\\brands\\github.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\images\\brands\\slack.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\call-icon.png",
+      "PackagePath": "staticwebassets\\images\\call-icon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\computer-img.png",
+      "PackagePath": "staticwebassets\\images\\computer-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\dress-shirt-img.png",
+      "PackagePath": "staticwebassets\\images\\dress-shirt-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\email-campaign.svg",
+      "PackagePath": "staticwebassets\\images\\email-campaign.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\features-1.svg",
+      "PackagePath": "staticwebassets\\images\\features-1.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\features-2.svg",
+      "PackagePath": "staticwebassets\\images\\features-2.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\file-searching.svg",
+      "PackagePath": "staticwebassets\\images\\file-searching.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\flag-france.png",
+      "PackagePath": "staticwebassets\\images\\flag-france.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\flag-uk.png",
+      "PackagePath": "staticwebassets\\images\\flag-uk.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\flags\\french.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\french.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\flags\\germany.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\germany.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\flags\\italy.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\italy.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\flags\\russia.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\russia.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\flags\\spain.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\spain.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\flags\\us.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\us.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\help-icon.svg",
+      "PackagePath": "staticwebassets\\images\\help-icon.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\ico-instagram.png",
+      "PackagePath": "staticwebassets\\images\\ico-instagram.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\ico-messenger.png",
+      "PackagePath": "staticwebassets\\images\\ico-messenger.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\itachi.jpg",
+      "PackagePath": "staticwebassets\\images\\itachi.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\jhumka-img.png",
+      "PackagePath": "staticwebassets\\images\\jhumka-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\kangan-img.png",
+      "PackagePath": "staticwebassets\\images\\kangan-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\laptop-img.png",
+      "PackagePath": "staticwebassets\\images\\laptop-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\large.png",
+      "PackagePath": "staticwebassets\\images\\large.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\layouts\\layout-1.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\layout-1.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\layouts\\layout-2.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\layout-2.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\layouts\\layout-3.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\layout-3.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\layouts\\layout-4.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\layout-4.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\layouts\\layout-5.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\layout-5.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\layouts\\layout-6.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\layout-6.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\images\\logo-light.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\logo_sm.png",
+      "PackagePath": "staticwebassets\\images\\logo_sm.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\logo_sm_dark.png",
+      "PackagePath": "staticwebassets\\images\\logo_sm_dark.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\mail-icon.png",
+      "PackagePath": "staticwebassets\\images\\mail-icon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\mail_sent.svg",
+      "PackagePath": "staticwebassets\\images\\mail_sent.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\maintenance.svg",
+      "PackagePath": "staticwebassets\\images\\maintenance.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\map-icon.png",
+      "PackagePath": "staticwebassets\\images\\map-icon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\mobile-img.png",
+      "PackagePath": "staticwebassets\\images\\mobile-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\naruto.jpg",
+      "PackagePath": "staticwebassets\\images\\naruto.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\naruto2.jpg",
+      "PackagePath": "staticwebassets\\images\\naruto2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\neklesh-img.png",
+      "PackagePath": "staticwebassets\\images\\neklesh-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\onepiece.png",
+      "PackagePath": "staticwebassets\\images\\onepiece.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\payments\\amazon.png",
+      "PackagePath": "staticwebassets\\images\\payments\\amazon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\payments\\american-express.png",
+      "PackagePath": "staticwebassets\\images\\payments\\american-express.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\payments\\btc.png",
+      "PackagePath": "staticwebassets\\images\\payments\\btc.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\payments\\citi.png",
+      "PackagePath": "staticwebassets\\images\\payments\\citi.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\payments\\cod.png",
+      "PackagePath": "staticwebassets\\images\\payments\\cod.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\payments\\discover.png",
+      "PackagePath": "staticwebassets\\images\\payments\\discover.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\payments\\master.png",
+      "PackagePath": "staticwebassets\\images\\payments\\master.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\payments\\payoneer.png",
+      "PackagePath": "staticwebassets\\images\\payments\\payoneer.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\payments\\paypal.png",
+      "PackagePath": "staticwebassets\\images\\payments\\paypal.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\payments\\stripe.png",
+      "PackagePath": "staticwebassets\\images\\payments\\stripe.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\payments\\visa.png",
+      "PackagePath": "staticwebassets\\images\\payments\\visa.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\projects\\project-1.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\projects\\project-2.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\projects\\project-3.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\projects\\project-4.jpg",
+      "PackagePath": "staticwebassets\\images\\projects\\project-4.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\report.svg",
+      "PackagePath": "staticwebassets\\images\\report.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\small\\small-1.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\small-1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\small\\small-2.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\small-2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\small\\small-3.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\small-3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\small\\small-4.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\small-4.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\startman.svg",
+      "PackagePath": "staticwebassets\\images\\startman.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\startup.svg",
+      "PackagePath": "staticwebassets\\images\\startup.svg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\toggle-icon.png",
+      "PackagePath": "staticwebassets\\images\\toggle-icon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\tshirt-img.png",
+      "PackagePath": "staticwebassets\\images\\tshirt-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\user-icon.png",
+      "PackagePath": "staticwebassets\\images\\user-icon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\users\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-10.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\users\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\users\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\users\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-4.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\users\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-5.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\users\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-6.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\users\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-7.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\users\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-8.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\users\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-9.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\waves.png",
+      "PackagePath": "staticwebassets\\images\\waves.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\whale.jpg",
+      "PackagePath": "staticwebassets\\images\\whale.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\images\\women-clothes-img.png",
+      "PackagePath": "staticwebassets\\images\\women-clothes-img.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\ban.png.jpg",
+      "PackagePath": "staticwebassets\\img\\ban.png.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\baolo.png",
+      "PackagePath": "staticwebassets\\img\\baolo.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\bo.png",
+      "PackagePath": "staticwebassets\\img\\bo.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\book.png",
+      "PackagePath": "staticwebassets\\img\\book.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\bookne.png.jpg",
+      "PackagePath": "staticwebassets\\img\\bookne.png.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\butnho.png",
+      "PackagePath": "staticwebassets\\img\\butnho.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\ca1.jpg",
+      "PackagePath": "staticwebassets\\img\\ca1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\ca2.jpg",
+      "PackagePath": "staticwebassets\\img\\ca2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\ca3.jpg",
+      "PackagePath": "staticwebassets\\img\\ca3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\capsach.png",
+      "PackagePath": "staticwebassets\\img\\capsach.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\capsachbuom.png",
+      "PackagePath": "staticwebassets\\img\\capsachbuom.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\casio.png",
+      "PackagePath": "staticwebassets\\img\\casio.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\classmate.png",
+      "PackagePath": "staticwebassets\\img\\classmate.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\compa.png",
+      "PackagePath": "staticwebassets\\img\\compa.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\conan1.png",
+      "PackagePath": "staticwebassets\\img\\conan1.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\conan100.png",
+      "PackagePath": "staticwebassets\\img\\conan100.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\conan101.png",
+      "PackagePath": "staticwebassets\\img\\conan101.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\conan2.png",
+      "PackagePath": "staticwebassets\\img\\conan2.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\conan21.png",
+      "PackagePath": "staticwebassets\\img\\conan21.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\conan30.png",
+      "PackagePath": "staticwebassets\\img\\conan30.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\conan45.png",
+      "PackagePath": "staticwebassets\\img\\conan45.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\conan5.png",
+      "PackagePath": "staticwebassets\\img\\conan5.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\conan80.png",
+      "PackagePath": "staticwebassets\\img\\conan80.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\conan95.png",
+      "PackagePath": "staticwebassets\\img\\conan95.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\conan97.png",
+      "PackagePath": "staticwebassets\\img\\conan97.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\congchua.png",
+      "PackagePath": "staticwebassets\\img\\congchua.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\dialy6.png",
+      "PackagePath": "staticwebassets\\img\\dialy6.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\doiquandoraemon.png",
+      "PackagePath": "staticwebassets\\img\\doiquandoraemon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\doraemon.png",
+      "PackagePath": "staticwebassets\\img\\doraemon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\doraemon12.png",
+      "PackagePath": "staticwebassets\\img\\doraemon12.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\doraemon33.png",
+      "PackagePath": "staticwebassets\\img\\doraemon33.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\eke.png",
+      "PackagePath": "staticwebassets\\img\\eke.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\embe.jfif",
+      "PackagePath": "staticwebassets\\img\\embe.jfif"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\embe.jpg",
+      "PackagePath": "staticwebassets\\img\\embe.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\embetapto.png",
+      "PackagePath": "staticwebassets\\img\\embetapto.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\flag-1.jpg",
+      "PackagePath": "staticwebassets\\img\\flag-1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\flag-2.jpg",
+      "PackagePath": "staticwebassets\\img\\flag-2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\flag-3.jpg",
+      "PackagePath": "staticwebassets\\img\\flag-3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\img\\footer-logo.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\fptlogo.png",
+      "PackagePath": "staticwebassets\\img\\fptlogo.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\freefire.png",
+      "PackagePath": "staticwebassets\\img\\freefire.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\gum.png",
+      "PackagePath": "staticwebassets\\img\\gum.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\hellokitty.png",
+      "PackagePath": "staticwebassets\\img\\hellokitty.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\hero-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\hopbut.png",
+      "PackagePath": "staticwebassets\\img\\hopbut.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\horse.png",
+      "PackagePath": "staticwebassets\\img\\horse.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\huy1.png.jpg",
+      "PackagePath": "staticwebassets\\img\\huy1.png.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\icon-1.png",
+      "PackagePath": "staticwebassets\\img\\icon-1.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\icon-2.png",
+      "PackagePath": "staticwebassets\\img\\icon-2.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\insta-1.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\insta-2.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\insta-3.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\latest-1.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\latest-2.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\latest-3.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\logo-1.png",
+      "PackagePath": "staticwebassets\\img\\logo-1.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\logo-2.png",
+      "PackagePath": "staticwebassets\\img\\logo-2.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\logo-3.png",
+      "PackagePath": "staticwebassets\\img\\logo-3.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\logo-4.png",
+      "PackagePath": "staticwebassets\\img\\logo-4.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\logo-5.png",
+      "PackagePath": "staticwebassets\\img\\logo-5.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\logoW.png",
+      "PackagePath": "staticwebassets\\img\\logoW.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\logoWebsite.png",
+      "PackagePath": "staticwebassets\\img\\logoWebsite.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\mainlogo.png",
+      "PackagePath": "staticwebassets\\img\\mainlogo.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\man-1.jpg",
+      "PackagePath": "staticwebassets\\img\\man-1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\man-2.jpg",
+      "PackagePath": "staticwebassets\\img\\man-2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\man-3.jpg",
+      "PackagePath": "staticwebassets\\img\\man-3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\man-4.jpg",
+      "PackagePath": "staticwebassets\\img\\man-4.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\man-large.jpg",
+      "PackagePath": "staticwebassets\\img\\man-large.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\manga.png.jpg",
+      "PackagePath": "staticwebassets\\img\\manga.png.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\mazuko.png",
+      "PackagePath": "staticwebassets\\img\\mazuko.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\nangtienca.png",
+      "PackagePath": "staticwebassets\\img\\nangtienca.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\nguvan10.png",
+      "PackagePath": "staticwebassets\\img\\nguvan10.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\nguvan11.png",
+      "PackagePath": "staticwebassets\\img\\nguvan11.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\nguvan12.png",
+      "PackagePath": "staticwebassets\\img\\nguvan12.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\nguvan6.png",
+      "PackagePath": "staticwebassets\\img\\nguvan6.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\nguvan7.png",
+      "PackagePath": "staticwebassets\\img\\nguvan7.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\nguvan8.png",
+      "PackagePath": "staticwebassets\\img\\nguvan8.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\nguvan9.png",
+      "PackagePath": "staticwebassets\\img\\nguvan9.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\notebook.png",
+      "PackagePath": "staticwebassets\\img\\notebook.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\payment-method.png",
+      "PackagePath": "staticwebassets\\img\\payment-method.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\pinkcasio.png",
+      "PackagePath": "staticwebassets\\img\\pinkcasio.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\sach.png",
+      "PackagePath": "staticwebassets\\img\\sach.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\schoolbag.png",
+      "PackagePath": "staticwebassets\\img\\schoolbag.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\select-product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\select-product-1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\select-product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\select-product-2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\shin11.png",
+      "PackagePath": "staticwebassets\\img\\shin11.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\shin12.png",
+      "PackagePath": "staticwebassets\\img\\shin12.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\shin24.png",
+      "PackagePath": "staticwebassets\\img\\shin24.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\shin35.png",
+      "PackagePath": "staticwebassets\\img\\shin35.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\shin47.png",
+      "PackagePath": "staticwebassets\\img\\shin47.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\shin7.png",
+      "PackagePath": "staticwebassets\\img\\shin7.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\shin70.png",
+      "PackagePath": "staticwebassets\\img\\shin70.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\shin78.png",
+      "PackagePath": "staticwebassets\\img\\shin78.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\shin8.png",
+      "PackagePath": "staticwebassets\\img\\shin8.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\taplamvanmau5.png",
+      "PackagePath": "staticwebassets\\img\\taplamvanmau5.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\tay.png",
+      "PackagePath": "staticwebassets\\img\\tay.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\taydoraemon.png",
+      "PackagePath": "staticwebassets\\img\\taydoraemon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\taymauhong.png",
+      "PackagePath": "staticwebassets\\img\\taymauhong.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\taytrang.png",
+      "PackagePath": "staticwebassets\\img\\taytrang.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\thanbaimientay.png",
+      "PackagePath": "staticwebassets\\img\\thanbaimientay.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\tho.png",
+      "PackagePath": "staticwebassets\\img\\tho.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\thuocke.png",
+      "PackagePath": "staticwebassets\\img\\thuocke.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\tiengviet.png",
+      "PackagePath": "staticwebassets\\img\\tiengviet.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\tiengviet1.png",
+      "PackagePath": "staticwebassets\\img\\tiengviet1.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\tiengviet2.png",
+      "PackagePath": "staticwebassets\\img\\tiengviet2.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\tiengviet3.png",
+      "PackagePath": "staticwebassets\\img\\tiengviet3.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\tiengviet4.png",
+      "PackagePath": "staticwebassets\\img\\tiengviet4.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\tiengviet5.png",
+      "PackagePath": "staticwebassets\\img\\tiengviet5.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\time-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\time-bg.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\toan10.png",
+      "PackagePath": "staticwebassets\\img\\toan10.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\toan4.png",
+      "PackagePath": "staticwebassets\\img\\toan4.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\toggle-icon.png",
+      "PackagePath": "staticwebassets\\img\\toggle-icon.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\ve.png.jpg",
+      "PackagePath": "staticwebassets\\img\\ve.png.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\vochepnhac.png",
+      "PackagePath": "staticwebassets\\img\\vochepnhac.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\vodep.png",
+      "PackagePath": "staticwebassets\\img\\vodep.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\vohongha.png",
+      "PackagePath": "staticwebassets\\img\\vohongha.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\vooly.png",
+      "PackagePath": "staticwebassets\\img\\vooly.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\women-1.jpg",
+      "PackagePath": "staticwebassets\\img\\women-1.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\women-2.jpg",
+      "PackagePath": "staticwebassets\\img\\women-2.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\women-3.jpg",
+      "PackagePath": "staticwebassets\\img\\women-3.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\women-4.jpg",
+      "PackagePath": "staticwebassets\\img\\women-4.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\women-large.jpg",
+      "PackagePath": "staticwebassets\\img\\women-large.jpg"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\img\\zoro.png",
+      "PackagePath": "staticwebassets\\img\\zoro.png"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\javascript\\app.min.js",
+      "PackagePath": "staticwebassets\\javascript\\app.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\javascript\\vendor.min.js",
+      "PackagePath": "staticwebassets\\javascript\\vendor.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\js\\app.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\app.min.js.map",
+      "PackagePath": "staticwebassets\\js\\app.min.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.apex-area.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.apex-area.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.apex-bar.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.apex-bar.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.apex-bubble.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.apex-bubble.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.apex-candlestick.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.apex-candlestick.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.apex-column.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.apex-column.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.apex-heatmap.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.apex-heatmap.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.apex-line.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.apex-line.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.apex-mixed.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.apex-mixed.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.apex-pie.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.apex-pie.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.apex-radar.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.apex-radar.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.apex-radialbar.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.apex-radialbar.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.apex-scatter.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.apex-scatter.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.apex-sparklines.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.apex-sparklines.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.britechart.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.britechart.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.calendar.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.calendar.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.chartjs.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.chartjs.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.customers.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.customers.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.dashboard-analytics.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.dashboard-analytics.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.dashboard-crm.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.dashboard-crm.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.dashboard-projects.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.dashboard-projects.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.dashboard.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.dashboard.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.datatable-init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.datatable-init.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.form-wizard.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.form-wizard.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.google-maps.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.google-maps.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.inbox.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.inbox.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.products.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.products.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.profile.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.profile.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.project-detail.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.project-detail.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.project-gantt.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.project-gantt.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.sellers.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.sellers.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.simplemde.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.simplemde.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.sparkline.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.sparkline.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.summernote.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.summernote.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.toastr.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.toastr.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.typehead.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.typehead.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.vector-maps.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.vector-maps.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\pages\\demo.widgets.js",
+      "PackagePath": "staticwebassets\\js\\pages\\demo.widgets.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\js\\slider-setting.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\ui\\component.chat.js",
+      "PackagePath": "staticwebassets\\js\\ui\\component.chat.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\ui\\component.dragula.js",
+      "PackagePath": "staticwebassets\\js\\ui\\component.dragula.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\ui\\component.fileupload.js",
+      "PackagePath": "staticwebassets\\js\\ui\\component.fileupload.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\ui\\component.range-slider.js",
+      "PackagePath": "staticwebassets\\js\\ui\\component.range-slider.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\ui\\component.rating.js",
+      "PackagePath": "staticwebassets\\js\\ui\\component.rating.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\ui\\component.scrollbar.js",
+      "PackagePath": "staticwebassets\\js\\ui\\component.scrollbar.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\ui\\component.todo.js",
+      "PackagePath": "staticwebassets\\js\\ui\\component.todo.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor.js",
+      "PackagePath": "staticwebassets\\js\\vendor.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor.min.js.map",
+      "PackagePath": "staticwebassets\\js\\vendor.min.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\britecharts.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\britecharts.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\buttons.flash.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\d3.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\d3.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\dataTables.checkboxes.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\dataTables.checkboxes.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\dataTables.select.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\dragula.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\dragula.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\dropzone.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\frappe-gantt.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\frappe-gantt.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\handlebars.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\handlebars.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\jquery-jvectormap-au-mill-en.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-jvectormap-au-mill-en.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\jquery-jvectormap-ca-lcc-en.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-jvectormap-ca-lcc-en.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\jquery-jvectormap-es-merc.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-jvectormap-es-merc.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\js\\vendor\\jquery-jvectormap-es-mill.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-jvectormap-es-mill.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Greenwich\\Assignments\\1670 Applicaton Development\\ASM\\Code\\New folder (2)\\FPTBookStore\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FPTBookStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FPTBookStore.props",
+      "PackagePath": "build\\FPTBookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FPTBookStore.props",
+      "PackagePath": "buildMultiTargeting\\FPTBookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FPTBookStore.props",
+      "PackagePath": "buildTransitive\\FPTBookStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
